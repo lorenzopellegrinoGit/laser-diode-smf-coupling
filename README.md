@@ -13,9 +13,9 @@ laser-diode-smf-coupling/
 │   └── report.pdf             # Technical report detailing derivations and design choices
 └── results/                   # Exported MATLAB figures (.png)
     ├── beta0_search.png
-    ├── normalized_mode.png
+    ├── mode_shape.png
     ├── coupling_loss_vs_z.png
-    ├── beam_vs_fiber_freespace.png
+    ├── beam_vs_fiber_afterlenses.png
     └── beam_vs_fiber_lenses.png
 ```
 
